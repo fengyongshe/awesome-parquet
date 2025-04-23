@@ -1,1 +1,4 @@
-# awesome-parquet
+#Contents: 
+This is an unofficial, meticulously curated list of resources for Apache Parquet, a highly optimized columnar storage format. Renowned for its exceptional performance and extensive compatibility, Apache Parquet has firmly established itself as a cornerstone in the realm of big data. It excels at efficiently storing and processing vast volumes of structured data, significantly reducing storage overheads and boosting query efficiency. As a result, it has become the go - to solution for numerous enterprises and data professionals in data management and analysis scenarios
+
+This resource list encompasses a comprehensive range of content, spanning from fundamental concepts to advanced applications. Whether you're a novice newly introduced to Parquet, eager to quickly build a knowledge framework and get started with hands - on practice, or a seasoned technical expert looking to delve deep into its core principles, optimization strategies, and cutting - edge applications, you'll find valuable information here.
